@@ -1,0 +1,7 @@
+# Generado por aula (scripts/labs/repos-jetbrains.ts). No se edita a mano.
+[project]
+name = "ia-nube-simuladores"
+version = "1"
+description = "Los programas de los simuladores de ia-nube, uno por caso."
+requires-python = ">=3.12"
+dependencies = []
