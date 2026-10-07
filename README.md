@@ -8,5 +8,5 @@ directamente el programa del caso que tienes montado. Si el repositorio cambia: 
 
 Este repositorio lo genera la web a partir de sus simuladores: no se edita a mano.
 
-- `frontera-de-decision/`: 3 casos
+- `frontera-de-decision/`: 40 casos
 - `k-means/`: 4 casos
