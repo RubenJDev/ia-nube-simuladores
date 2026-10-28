@@ -10,3 +10,5 @@ Este repositorio lo genera la web a partir de sus simuladores: no se edita a man
 
 - `frontera-de-decision/`: 40 casos
 - `k-means/`: 4 casos
+- `los-datos-deciden/`: 12 casos
+- `preparar-los-datos/`: 15 casos
